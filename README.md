@@ -15,5 +15,5 @@ An AI system that:
 - **Streamlit** for UI
 - **Sentence Transformers** for embeddings
 
-## Folder Structure
+
 
